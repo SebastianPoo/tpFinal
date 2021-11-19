@@ -1,0 +1,610 @@
+# depslib dependency file v1.0
+1636906838 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\arbolclientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+	"arbolClientes.h"
+	"celdaConsumo.h"
+
+1634412608 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\clientes.h
+
+1636829706 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\consumos.h
+	"clientes.h"
+
+1634413456 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\menus.h
+
+1635120942 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\listaconsumo.h
+	"consumos.h"
+
+1636905454 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\arbolclientes.h
+	"clientes.h"
+	"celdaConsumo.h"
+
+1635292769 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\celdaconsumo.h
+	"listaConsumo.h"
+
+1636904732 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\celdaconsumo.c
+	"celdaConsumo.h"
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1634413530 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\clientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1634413518 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\consumos.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1635121198 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\listaconsumo.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+
+1636915093 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\menus.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1636921703 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\tpfinalholamundo-00\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	"celdaConsumo.h"
+	"arbolClientes.h"
+
+1636939511 source:c:\users\maximiliano\desktop\tpfinal-ramamaxi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	"celdaConsumo.h"
+	"arbolClientes.h"
+
+1636937001 c:\users\maximiliano\desktop\tpfinal-ramamaxi\clientes.h
+
+1636933141 c:\users\maximiliano\desktop\tpfinal-ramamaxi\consumos.h
+	"clientes.h"
+
+1636921854 c:\users\maximiliano\desktop\tpfinal-ramamaxi\menus.h
+
+1636921854 c:\users\maximiliano\desktop\tpfinal-ramamaxi\celdaconsumo.h
+	"listaConsumo.h"
+
+1636921854 c:\users\maximiliano\desktop\tpfinal-ramamaxi\listaconsumo.h
+	"consumos.h"
+
+1636936183 c:\users\maximiliano\desktop\tpfinal-ramamaxi\arbolclientes.h
+	"clientes.h"
+	"celdaConsumo.h"
+
+1636938273 source:c:\users\maximiliano\desktop\tpfinal-ramamaxi\arbolclientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+	"arbolClientes.h"
+	"celdaConsumo.h"
+
+1636921854 source:c:\users\maximiliano\desktop\tpfinal-ramamaxi\celdaconsumo.c
+	"celdaConsumo.h"
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1636937216 source:c:\users\maximiliano\desktop\tpfinal-ramamaxi\clientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1636939511 source:c:\users\maximiliano\desktop\tpfinal-ramamaxi\consumos.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1636931903 source:c:\users\maximiliano\desktop\tpfinal-ramamaxi\listaconsumo.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+
+1636921854 source:c:\users\maximiliano\desktop\tpfinal-ramamaxi\menus.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637025451 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	"celdaConsumo.h"
+	"arbolClientes.h"
+
+1637018354 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\clientes.h
+
+1637018354 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\consumos.h
+	"clientes.h"
+
+1637018354 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\menus.h
+
+1637018354 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\celdaconsumo.h
+	"listaConsumo.h"
+
+1637018354 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\listaconsumo.h
+	"consumos.h"
+
+1637025662 e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\arbolclientes.h
+	"clientes.h"
+	"celdaConsumo.h"
+
+1637025779 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\arbolclientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+	"arbolClientes.h"
+	"celdaConsumo.h"
+
+1637018354 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\celdaconsumo.c
+	"celdaConsumo.h"
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637018354 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\clientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637021212 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\consumos.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637018354 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\listaconsumo.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+
+1637027523 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\en git\trabajo practico final\proyectofinalprogra2\menus.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637018354 source:c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\celdaconsumo.c
+	"celdaConsumo.h"
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637018354 c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\celdaconsumo.h
+	"listaConsumo.h"
+
+1637029265 c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\listaconsumo.h
+	"consumos.h"
+
+1637035256 c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\consumos.h
+	"clientes.h"
+
+1637018354 c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\clientes.h
+
+1637018354 c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\menus.h
+
+1637030020 source:c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\clientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637021212 source:c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\consumos.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637027523 source:c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\menus.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637032863 source:c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\arbolclientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+	"arbolClientes.h"
+	"celdaConsumo.h"
+
+1637035258 c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\arbolclientes.h
+	"clientes.h"
+	"celdaConsumo.h"
+
+1637029553 source:c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\listaconsumo.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+
+1637033203 source:c:\users\maximiliano\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	"celdaConsumo.h"
+	"arbolClientes.h"
+
+1637072492 source:c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\arbolclientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+	"arbolClientes.h"
+	"celdaConsumo.h"
+
+1637018354 c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\clientes.h
+
+1637071422 c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\consumos.h
+	"clientes.h"
+
+1637018354 c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\menus.h
+
+1637029265 c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\listaconsumo.h
+	"consumos.h"
+
+1637071872 c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\arbolclientes.h
+	"clientes.h"
+	"celdaConsumo.h"
+
+1637018354 c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\celdaconsumo.h
+	"listaConsumo.h"
+
+1637018354 source:c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\celdaconsumo.c
+	"celdaConsumo.h"
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637030020 source:c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\clientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637072887 source:c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\consumos.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637029553 source:c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\listaconsumo.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+
+1637072554 source:c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	"celdaConsumo.h"
+	"arbolClientes.h"
+
+1637071445 source:c:\users\daniel\desktop\proyectofinalprogra2okaa\proyectofinalprogra2\menus.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637072492 source:c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\arbolclientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+	"arbolClientes.h"
+	"celdaConsumo.h"
+
+1637018354 c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\clientes.h
+
+1637071422 c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\consumos.h
+	"clientes.h"
+
+1637018354 c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\menus.h
+
+1637029265 c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\listaconsumo.h
+	"consumos.h"
+
+1637071872 c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\arbolclientes.h
+	"clientes.h"
+	"celdaConsumo.h"
+
+1637018354 c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\celdaconsumo.h
+	"listaConsumo.h"
+
+1637018354 source:c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\celdaconsumo.c
+	"celdaConsumo.h"
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637030020 source:c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\clientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637092596 source:c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\consumos.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637029553 source:c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\listaconsumo.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+
+1637092880 source:c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	"celdaConsumo.h"
+	"arbolClientes.h"
+
+1637071445 source:c:\users\maximiliano\desktop\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\menus.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637072492 source:c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\arbolclientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+	"arbolClientes.h"
+	"celdaConsumo.h"
+
+1637018354 c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\clientes.h
+
+1637071422 c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\consumos.h
+	"clientes.h"
+
+1637018354 c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\menus.h
+
+1637029265 c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\listaconsumo.h
+	"consumos.h"
+
+1637071872 c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\arbolclientes.h
+	"clientes.h"
+	"celdaConsumo.h"
+
+1637018354 c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\celdaconsumo.h
+	"listaConsumo.h"
+
+1637018354 source:c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\celdaconsumo.c
+	"celdaConsumo.h"
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637030020 source:c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\clientes.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637092596 source:c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\consumos.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1637029553 source:c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\listaconsumo.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaConsumo.h"
+
+1637092880 source:c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	"celdaConsumo.h"
+	"arbolClientes.h"
+
+1637071445 source:c:\users\usuario\downloads\pf el que va\pf el que va\proyectofinalprogra2okaa\proyectofinalprogra2\menus.c
+	"clientes.h"
+	"consumos.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
